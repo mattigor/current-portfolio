@@ -27,6 +27,9 @@ export default function App() {
         description="Aqui estão os principais que desenvolvi ao longo do meu aprendizado."
       />
       <Contact />
+      <footer>
+        <span>Copyright &copy;  {new Date().getFullYear()} - Igor Matheus Palma da Rosa - Todos os direitos reservados.</span>
+      </footer>
     </div>
   )
 }

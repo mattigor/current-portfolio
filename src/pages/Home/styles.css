@@ -44,7 +44,7 @@ p {
 #about-me article,
 #education article,
 #contact-me article {
-    height: calc(100vh + 40px + 40px - 50px); /* margin-top + margin-bottom da .ul-menu-li */
+    height: calc(100vh + 40px + 40px); /* margin-top + margin-bottom da .ul-menu-li */
     width: 100vw;
     display: flex;
     padding: 0 10vw 0 10vw;
@@ -76,5 +76,10 @@ p {
         align-items: center;
         text-align: justify;
         background-color: var(--background-color);
+    }
+    #about-me article,
+    #education article,
+    #contact-me article {
+        height: calc(100vh + 40px + 40px - 50px); /* margin-top + margin-bottom da .ul-menu-li */
     }
 }

@@ -8,7 +8,7 @@ Portfólio desenvolvido com o objetivo de expor meus projetos.
 
 ## Pré-requisitos
 
-- Qualquer ferramenta de teste em HTML e CSS
+- Algum ambiente de desenvolvimento
 
   - [Sublime Text](https://www.sublimetext.com/)
   - [Visual Studio Code](https://code.visualstudio.com/)

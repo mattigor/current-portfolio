@@ -26,4 +26,4 @@ Portfólio desenvolvido com o objetivo de expor meus projetos.
 [Igor Matheus Palma da Rosa](https://github.com/mattigor/)
 
 ### Link para o projeto
-[Portfolio](https://igormatheusportfolio-moja31tda-igor-matheus-projects-9881ef41.vercel.app/)
+[Portfolio](https://igormatheusportfolio-cvhqcuozp-igor-matheus-projects-9881ef41.vercel.app/)

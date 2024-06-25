@@ -42,14 +42,24 @@
 
 @media (max-width: 768px) {
     #about-me article h1 {
-        font-size: 21pt; /* Reduzir o tamanho do título */
-        text-align: center; /* Centralizar o título */
+        font-size: 35pt;
+        text-align: center;
     }
     #about-me article p {
-        font-size: 10pt; /* Reduzir o tamanho do texto */
-        width: 100%; /* Permitir que o texto ocupe toda a largura disponível */
-        text-align: justify; /* Ajustar o alinhamento do texto */
+        font-size: 11pt;
+        width: 100%;
+        text-align: center;
         word-spacing: -2px;
-        margin: 10px     0; /* Ajustar margens para melhor espaçamento */
+        margin: 10px 0;
+    }
+}
+
+@media (max-width: 599px) {
+    #about-me article h1 {
+        font-size: 21pt;
+    }
+    #about-me article p {
+        font-size: 10pt;
+        text-align: justify;
     }
 }

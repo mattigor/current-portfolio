@@ -37,7 +37,7 @@
     font-weight: 450;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 599px) {
     @media (max-width: 768px) {
         #contact-me article h1 {
             font-size: 35pt;

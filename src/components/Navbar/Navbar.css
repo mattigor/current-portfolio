@@ -77,7 +77,7 @@
     background-color: var(--main-span-color);
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1024px) {
     #navbar {
         display: flex;
         justify-content: flex-end;

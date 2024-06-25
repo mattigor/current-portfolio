@@ -50,20 +50,20 @@ a {
     letter-spacing: .3px;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 599px) {
     #education article #education-graduation-h1 {
         font-size: 30pt;
         margin: -70px 0 0 0;
     }
     #education article #education-graduation-university h2 {
-        font-size: 11pt;
+        font-size: 13pt;
         text-align: left;
     }
     #education article #education-graduation-university-course {
-        font-size: 8pt;
+        font-size: 9pt;
     }
     #education article #education-graduation-university-icon {
-        height: 11px;
-        margin: 0 2px 0 0;
+        height: 12px;
+        margin: 0 2.5px 0 0;
     }
 }

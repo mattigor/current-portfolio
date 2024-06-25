@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/current-portfolio/static/css/main.b6cb798d.css",
+    "main.js": "/current-portfolio/static/js/main.2aa491be.js",
+    "static/media/eu.jpg": "/current-portfolio/static/media/eu.406d8ca0419023e53b74.jpg",
+    "static/media/macbook_alimentacao.png": "/current-portfolio/static/media/macbook_alimentacao.a6de1ef99b0c6f22e805.png",
+    "static/media/CV Igor Matheus.pdf": "/current-portfolio/static/media/CV Igor Matheus.80ef652338b97d720190.pdf",
+    "static/media/macbook_malignants.png": "/current-portfolio/static/media/macbook_malignants.4f13b9353e42a3dcdf34.png",
+    "index.html": "/current-portfolio/index.html",
+    "main.b6cb798d.css.map": "/current-portfolio/static/css/main.b6cb798d.css.map",
+    "main.2aa491be.js.map": "/current-portfolio/static/js/main.2aa491be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6cb798d.css",
+    "static/js/main.2aa491be.js"
+  ]
+}

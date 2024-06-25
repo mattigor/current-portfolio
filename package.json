@@ -1,5 +1,5 @@
 {
-  "homepage": "https://mattigor.github.io/current-portfolio",
+  "homepage": "https://mattigor.github.io/current-portfolio", //github pages
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
@@ -15,8 +15,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "predeploy": "npm run build", //github pages
+    "deploy": "gh-pages -d build", //github pages
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
